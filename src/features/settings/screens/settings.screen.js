@@ -1,6 +1,6 @@
 import React, { useContext, useState, useCallback } from "react";
 
-import { List, Avatar } from "react-native-paper";
+import { List } from "react-native-paper";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { TouchableOpacity } from "react-native";
 import { useFocusEffect } from "@react-navigation/native";
