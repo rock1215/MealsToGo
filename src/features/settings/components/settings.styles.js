@@ -14,3 +14,7 @@ export const AvatarIcon = styled(Avatar.Icon).attrs({
   size: 180,
   backgroundColor: colors.brand.primary,
 })``;
+export const AvatarImage = styled(Avatar.Image).attrs({
+  size: 180,
+  backgroundColor: colors.brand.primary,
+})``;
